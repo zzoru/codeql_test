@@ -4,7 +4,7 @@
 #include <unistd.h>
 #include <signal.h>
 #include <string>
-#include <strings.h>
+#include <cstring>
 #include <stdlib.h>
 #include <sstream>
 #include <vector>
