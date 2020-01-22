@@ -13,9 +13,7 @@ using namespace std;
 
 #define FLAGLEN 32
 #define TIMEOUT 60
-int malloc_usable_size(char **){
-    return 128;
-}
+
 class Ghost {
 	public :
 		Ghost():name(NULL),age(0){
